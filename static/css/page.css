@@ -179,48 +179,51 @@ a, a:hover {
 }
 
 .tiedotus {
-    padding: 50px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    height: auto;
+    width: 100%;
 }
 
 .ig, .tg {
-    width: 200px;
-    height: 200px;
+    width: 10%;
+    height: auto;
 }
 
 .ig {
-    margin-left: 100px;
-    margin-right: 50px;
+
+    margin-right: 10%;
 }
 
 .tg {
-    margin-right: 100px;
-    margin-left: 50px;
+
+    margin-left: 10%;
 }
 
 .tj {
-    height: 150px;
-    width: 150px;
-    padding-right: 50px;
+    max-width: 13%;
+    height: auto;
+    padding-right: 5%;
     margin-bottom: -25px;
-    padding-bottom: 50px;
+    padding-bottom: 5%;
 }
 
 .ayy {
-    height: 100px;
-    width: 300px;
-    padding-left: 100px;
-    padding-right: 150px;
-    padding-bottom: 50px;
+    max-width: 30%;
+    height: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
 }
 
 .teekkarius {
-    height: 100px;
-    width: 150px;
-    padding-bottom: 50px;
+    max-width: 20%;
+    height: auto;
+    padding-bottom: 5%;
 }
 
 .logot {
-    padding-top: 100px;
+    padding-top: 10%;
 }
 
 /* navbar end */
@@ -338,8 +341,10 @@ body:after{
     }
 
     .tg, .ig {
-        height: 50px;
-        width: 50px;
+        max-height: 50px;
+        max-width: 50px;
+        height: auto;
+        width: auto;
     }
 
     /*Style for menu links*/
