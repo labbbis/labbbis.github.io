@@ -139,7 +139,7 @@ header a {
     font-family: 'Academy Engraved';
     font-weight: bold;
     text-decoration: none;
-    color: #fff;
+    color: #95BBEC;
 }
 a:hover {
   color: #333;
@@ -228,7 +228,7 @@ a, a:hover {
 
 /* navbar end */
 a {
-    color:#ffffff;
+    color:#95BBEC;
     font-weight: bold;
     text-decoration: none;
 }
