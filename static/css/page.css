@@ -6,6 +6,16 @@
   box-sizing: border-box;
 }
 
+.float-container {
+    position: inherit;
+}
+
+.float-child {
+    width: 20%;
+    float: left;
+    padding:15%
+}
+
 ul {
     white-space: nowrap;
 }
